@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mmmxcix.spotiseek",
+      "sha256_cert_fingerprints": [
+        "F5:FD:C9:4C:62:02:80:33:25:92:E7:FC:48:D4:70:D4:26:CA:55:C8:AB:E7:CE:63:A5:50:DF:BD:60:56:76:18"
+      ]
+    }
+  }
+]
